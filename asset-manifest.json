@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-yt-clone/static/css/main.7064deb2.css",
+    "main.js": "/react-yt-clone/static/js/main.6d048aa6.js",
+    "index.html": "/react-yt-clone/index.html",
+    "main.7064deb2.css.map": "/react-yt-clone/static/css/main.7064deb2.css.map",
+    "main.6d048aa6.js.map": "/react-yt-clone/static/js/main.6d048aa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.6d048aa6.js"
+  ]
+}
